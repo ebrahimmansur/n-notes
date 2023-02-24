@@ -21,6 +21,16 @@ we do this by defining the following:
  - Notes
  
  
- --
+ ---
  
- ## The 
+ # The solution space
+ This process is about implementation of the problem space by keeping in mind the the following:
+ - The use-cases
+ - coupling
+ - Cohesion
+
+## The Tech stack - Framwork and language
+- ASP.NET Core
+- flutter
+- dart
+- C#
