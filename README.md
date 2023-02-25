@@ -11,7 +11,7 @@ we do this by defining the following:
 ## The Actors
 - Note-owner
 
-## The Core process of the Note-owner
+#### The Core process of the Note-owner
 - create notes
 - update notes
 - delete notes
